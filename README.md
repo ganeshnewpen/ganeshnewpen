@@ -1,4 +1,4 @@
-# [GANESH NEUPANE]
+# GANESH NEUPANE
 
 <img src="https://ganeshneupane.com.np/img/ganesh-neupane-software-developer.jpg" alt="Profile Image" width="200"/>
 

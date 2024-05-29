@@ -1,6 +1,6 @@
 # GANESH NEUPANE
 
-<img src="https://ganeshneupane.com.np/img/ganesh-neupane-software-developer.jpg" alt="Profile Image" width="200"/>
+<img src="https://ganeshneupane.com.np/img/ganesh-neupane-software-developer.jpg" alt="Profile Image" width="100" height="100" style="border-radius: 50%"/>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)

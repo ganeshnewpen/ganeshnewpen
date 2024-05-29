@@ -16,9 +16,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 
-<a href="https://www.ganeshneupane.com.np/">
 ![ganeshnewpen's Stats](https://github-readme-stats.vercel.app/api?username=ganeshnewpen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![ganeshnewpen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ganeshnewpen&theme=vue-dark&hide_border=true)
 ![ganeshnewpen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshnewpen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   
-</a>
+
